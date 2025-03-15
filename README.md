@@ -1,5 +1,5 @@
 # Personal-Fitness-Tracker
-Personal Fitness Tracke-Data-driven platform to monitor and optimize their fitness routines
+Personal Fitness Tracker-Data-driven platform to monitor and optimize their fitness routines
 
 ![Image](https://github.com/user-attachments/assets/4864e507-c824-46fd-bc15-35b4c961d927)
 
